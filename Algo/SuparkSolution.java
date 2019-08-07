@@ -10,11 +10,7 @@ public class SuparkSolution {
 				  answer = answer + "수";
 			  } else { // 홀수일 경우
 				  // answer에 박 추가
-				  answer = answer + "박";  
-				  
-				  
-				  
-				  
+				  answer = answer + "박";
 			  }
 		  }
 		  
