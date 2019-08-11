@@ -22,7 +22,6 @@ public class DivisorNumberSolution {
 		  } else {	// 나누어 떨어지는 값이 있을 경우
 			  for(int i =0; i<list.size(); i++) { // list의 길이만큼 
 				  answer[i] = list.get(i); // answer에 list의 값을 넣어준다
-				  System.out.println(answer[i]);
 			  }
 		  }
 	      return answer; // 값 반환
