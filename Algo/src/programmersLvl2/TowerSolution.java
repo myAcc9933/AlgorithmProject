@@ -4,7 +4,7 @@ package programmersLvl2;
 //프로그래머스 > 코딩테스트 연습 > 연습문제 > 탑 
 public class TowerSolution {
     public int[] solution(int[] heights) {
-    	// SUMMARY
+    	// SUMMARY 
     	// 1. 배열 끝부터 시작해서 0까지
     	// 2. FOR 문을 돌려가며 자신보다 큰 수가 있는지 확인
     	//    있을 경우 해당 배열 INDEX 삽입 
