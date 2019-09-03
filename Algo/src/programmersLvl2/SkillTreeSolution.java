@@ -29,7 +29,7 @@ public class SkillTreeSolution {
         			}
         		}
         	}
-        	treeValue = 0;
+        	treeValue = 0; // 초기화
         }
         return answer;
     }	
