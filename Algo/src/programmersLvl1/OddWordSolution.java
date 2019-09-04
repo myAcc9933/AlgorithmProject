@@ -1,5 +1,7 @@
 package programmersLvl1;
  
+//https://programmers.co.kr/learn/courses/30/lessons/12930?language=java
+//프로그래머스 > 코딩테스트 연습 > 연습문제 > 이상한 문자 만들기 
 public class OddWordSolution {
 	  public String solution(String s) {
 		     String answer = "";
