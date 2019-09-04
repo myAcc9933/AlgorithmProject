@@ -9,7 +9,7 @@ public class MeasureSumSolution {
 	      for(int i = 1; i<=n; i++) {   // for문을 n값까지 진행
 	    	  if(n % i == 0) { 			   // n을 i로 나눠 나머지 값이 없다면
 	    		  answer = answer + i; // answer 값 더하기
-	    	  }
+	    	  } 
 	      }
 	      
 	      return answer; // 값 반환
