@@ -3,6 +3,7 @@ package programmersLvl1;
 import java.util.ArrayList;
 import java.util.Collections;
 
+// 프로그래머스 나누어 떨어지는 숫자 배열(java) 
 public class DivisorNumberSolution {
 	  public int[] solution(int[] arr, int divisor) {
 		  ArrayList<Integer> list = new ArrayList<>();
