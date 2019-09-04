@@ -6,7 +6,7 @@ import java.util.Scanner;
 //프로그래머스 > 코딩테스트 연습 > 연습문제 > 직사각형 별찍기  
 public class SquareStarSolution {
  
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt(); // 처음 입력한 값
         int b = sc.nextInt(); // 다음으로 입력한 값
