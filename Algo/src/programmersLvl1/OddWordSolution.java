@@ -9,7 +9,7 @@ public class OddWordSolution {
 		     int spaceCheck = 0;
 		     
 		     for(int i = 0; i<s.length(); i++) {
-		    	txt = s.substring(i, i+1);
+		    	txt = s.substring(i, i+1); // 한글자씩 자르기
 		    	if(txt.equals(" ")) { // space 체크
 		    		answer = answer + txt;
 		    		spaceCheck = 0; // space reset
@@ -26,7 +26,8 @@ public class OddWordSolution {
 	}	
 
 	public static void main(String[] args) {
-
+		OddWordSolution ows = new OddWordSolution();
+		ows.solution("try hello world");
 	}
 
 }
