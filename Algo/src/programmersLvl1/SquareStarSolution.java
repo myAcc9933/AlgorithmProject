@@ -3,7 +3,7 @@ package programmersLvl1;
 import java.util.Scanner;
  
 // https://programmers.co.kr/learn/courses/30/lessons/12969?language=java
-//프로그래머스 > 코딩테스트 연습 > 연습문제 > 직사각형 별찍기 
+//프로그래머스 > 코딩테스트 연습 > 연습문제 > 직사각형 별찍기  
 public class SquareStarSolution {
  
 	public static void main(String[] args) {
