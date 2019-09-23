@@ -1,7 +1,7 @@
 package programmersLvl2;
 
 //https://programmers.co.kr/learn/courses/30/lessons/12951?language=java
-//프로그래머스 > 코딩테스트 연습 > 연습문제 > JadenCase 문자열 만들기
+//프로그래머스 > 코딩테스트 연습 > 연습문제 > 다음 큰 숫자
 public class NextBiggerBinarySolution {
 	  public int solution(int n) {
 		    int answer = 0;
